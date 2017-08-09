@@ -8,7 +8,7 @@ export default () => {
 	return (
 		<div style={coverStyle}>
 			<h1>Welcome to React with Redux Club!</h1>
-			<p>This sample project mainly teaches you two Redux concepts:</p>
+			<p>This sample project mainly teaches you two concepts:</p>
 			<ul>
 				<li>Higher-Order Components</li>
 				<li>Middlewares</li>
